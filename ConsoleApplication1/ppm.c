@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "imglib.h"
+#include "ppm.h"
 
 void output_ppm(file* fd, image img)
 {
